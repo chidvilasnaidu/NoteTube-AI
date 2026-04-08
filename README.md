@@ -139,12 +139,17 @@ Pull requests are welcome! For major changes, please open an issue first.
 5. Open a Pull Request
 
 ---
-
-## 📄 License
-
-MIT License © 2026 NoteTube AI
+## 🚀 Live Demo
+[Click here to try the app](https://huggingface.co/spaces/chidvilasnaidu/NoteTube_AI)
 
 ---
+
+## 📜 License & Disclaimer
+
+All images, videos, and thumbnails used in this project belong to their respective owners.
+
+This project is created **strictly for educational purposes only**.  
+No ownership is claimed over any third-party content.
 
 ## 👨‍💻 Author
 
