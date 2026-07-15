@@ -13,7 +13,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 
 st.set_page_config(page_title="NoteTube AI", page_icon="🎬", layout="wide")
 
-# ── LOAD BG IMAGE (with fallback) ───────────────────
+
 def get_base64_image(path):
     if not os.path.exists(path):
         return None
