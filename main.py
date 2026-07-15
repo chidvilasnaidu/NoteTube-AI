@@ -23,7 +23,6 @@ def get_base64_image(path):
 img_path = "IMGs/BG.jpg"
 b64 = get_base64_image(img_path)
 
-# ── HANDLE PAGE NAVIGATION VIA QUERY PARAMS ──────────
 if "page" not in st.session_state:
     query_params = st.query_params
     st.session_state.page = query_params.get("page", "home")
