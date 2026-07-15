@@ -165,7 +165,7 @@ input {{
     background: linear-gradient(135deg,#0ea5e9,#0284c7);
     color: white;
     border-radius: 8px;
-    border: none;
+    border: none; 
     padding: 0.5rem 1rem;
 }}
 
