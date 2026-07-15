@@ -11,7 +11,6 @@ load_dotenv()
 from google import genai
 from youtube_transcript_api import YouTubeTranscriptApi
 
-# ── PAGE CONFIG ─────────────────────────────────────
 st.set_page_config(page_title="NoteTube AI", page_icon="🎬", layout="wide")
 
 # ── LOAD BG IMAGE (with fallback) ───────────────────
