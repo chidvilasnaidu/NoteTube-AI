@@ -1,6 +1,6 @@
 # 🎬 NoteTube AI
 
-> **Turn any YouTube video into clean, structured notes — instantly.**
+> **Turn any YouTube video into clean, structured notes instantly.**
 
 NoteTube AI extracts transcripts from YouTube videos and uses Google Gemini AI to generate well-organized, readable notes in seconds. No more rewatching. No more manual note-taking.
 --- 
