@@ -4,7 +4,7 @@
 
 NoteTube AI extracts transcripts from YouTube videos and uses Google Gemini AI to generate well-organized, readable notes in seconds. No more rewatching. No more manual note-taking.
 --- 
-kkk
+
 ## ✨ Features
 
 - 🎥 **Transcript Extraction** — Pulls captions from any public YouTube video automatically
